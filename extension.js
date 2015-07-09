@@ -103,7 +103,7 @@
         welcome: true,
         opLink: null,
         rulesLink: null,
-        themeLink: null,
+        themeLink: "http://7-themes.com/data_images/out/66/6996704-cool-green-and-black-backgrounds.jpg",
         fbLink: null,
         youtubeLink: null,
         website: null,
