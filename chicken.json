@@ -29,11 +29,11 @@
         "playback": "http://i.imgur.com/a8aqA4A.png?1",
         "admin": null,
         "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
+        "host": "http://i.imgur.com/d20Bq3Z.png",
+        "cohost": "http://i.imgur.com/d20Bq3Z.png",
+        "manager": "http://i.imgur.com/SNdekaj.png",
+        "bouncer": "http://i.imgur.com/VVppEps.png",
+        "rdj": "http://i.imgur.com/mcT2htN.png",
         "subscriber": null
     },
     "emotes": {
