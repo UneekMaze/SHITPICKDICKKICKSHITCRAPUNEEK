@@ -1,4 +1,5 @@
 #user-lists .list.staff .group{background:linear-gradient(to right,rgba(0,0,0,0) 0,rgba(0,0,0,1) 100%)!important;}
+#room-bar .icon-room{background: url(https://i.imgur.com/tR5t1jx.gif?1) no-repeat;}
 #footer{background:linear-gradient(to bottom,rgba(0,0,0,0.25) 0,rgba(0,0,0,0.75) 100%);}
 #playlist-button{background:linear-gradient(to bottom,#FF5CDE 0,#5700FF 100%);}
 #app-header{background:linear-gradient(to bottom,rgba(255,255,255,0.25) 0,rgba(0,0,0,0.75) 100%);}
