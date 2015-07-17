@@ -38,6 +38,5 @@
 #meh .bottom,#meh.selected{background:#c42e3b;}
 .row:hover{background:linear-gradient(to right,rgba(255,118,118,0) 0,rgba(41,48,124,0.27) 100%)!important;}
 #chat .mention .msg{background:linear-gradient(to right,rgba(255,118,118,0) 0,rgba(41,48,124,0.27) 100%)!important;}
-#room-bar .icon-room{background: url(https://i.imgur.com/tR5t1jx.gif?1) no-repeat;}
 #user-lists .list.room .user .icon-meh{top:-1px!important;right:8px!important;left:auto!important;}
 #user-lists .list.room .user .icon-grab{right:35px!important;}
